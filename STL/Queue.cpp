@@ -6,8 +6,8 @@ int main() {
 
     queue<string> q;
 
-    q.push("love");
-    q.push("Babbar");
+    q.push("name");
+    q.push("yash");
     q.push("Kumar");
 
     cout<<"Size before pop"<<q.size()<<endl;
